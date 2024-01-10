@@ -1,3 +1,6 @@
+# win10 dll
+/docs/*.dll
+
 # Aseprite
 
 [![build](https://github.com/aseprite/aseprite/actions/workflows/build.yml/badge.svg)](https://github.com/aseprite/aseprite/actions/workflows/build.yml)
